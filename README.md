@@ -1,1 +1,3 @@
-<img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=NKMAK&count_private=true&show_icons=true&show_icons=true&theme=tokyonight" />
+<div>
+  <img alt="github stats" height="150px" src="https://github-readme-state-xi.vercel.app/api?username=NKMAK&theme=tokyonight&show_icons=true" />
+</div>
